@@ -1,3 +1,4 @@
+#putting each word in a array
 string[0] = "Oxo";
 string[1] = "OXO";
 string[2] = "123454321";
