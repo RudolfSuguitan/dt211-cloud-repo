@@ -5,6 +5,7 @@ string[3] = "ROTATOR";
 string[4] = "12345 54321";
 
 i=0;
+#loop to test each string
 while i<5:
   string[i] = string[i].casefold();
   rev_string = reversed(string[i]);
