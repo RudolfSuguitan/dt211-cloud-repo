@@ -9,7 +9,7 @@ while (i<len(string)):
   #reverse string and copy to rev_string
   rev_string = string[i][::-1]
 
-  print "Is %s == %s ?" %(string[i], rev_string)
+  print ("Is %s == %s ?" %(string[i], rev_string))
   #comparing string with reversed string
   if string[i] == rev_string:
     print("--->True<---")
