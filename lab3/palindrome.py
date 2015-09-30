@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #definig string array
 string = ["Oxo", "OXO", "123454321", "ROTATOR", "12345 54321", "RV"];
 
